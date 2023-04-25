@@ -1,0 +1,18 @@
+body {
+  margin-left: 400px;
+  margin-right: 400px;
+  background-color: rgb(255, 255, 252);
+}
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+.oi {
+  font-size: 18px;
+  text-shadow: 2px 2px 3px grey;
+}
+ul {
+  padding: 10px;
+}
